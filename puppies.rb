@@ -27,7 +27,7 @@ def some_puppies(num, max)
     return "Good job, Rachel!"
   elsif num>max
   return "Get back to your animal goals!"
-else
+
 end
 end
 
